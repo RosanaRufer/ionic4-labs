@@ -1,6 +1,8 @@
 {
   "name": "ionic4-labs",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "a4111e0f"
 }
